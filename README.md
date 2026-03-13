@@ -3,4 +3,5 @@ My personal macropad for Hack Club Blueprint
 
 ## Links:
 
-[https://blueprint.hackclub.com/hackpad]()
+- Dashboard [https://blueprint.hackclub.com/home]()
+- Tutorial (text) [https://blueprint.hackclub.com/hackpad]()
