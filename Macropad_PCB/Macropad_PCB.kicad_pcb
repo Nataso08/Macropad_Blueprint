@@ -4257,15 +4257,15 @@
 			(uuid "cf92cd88-d22e-46c5-a507-e654ff7cd065")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.step"
+		(model "C:/Users/Elia Maso/Documents/GitHub/Macropad_Blueprint/Macropad_PCB/SymbolsFootprints/Rotary_Encoder.pretty/AlpsEC11.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7.25 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -5272,7 +5272,7 @@
 			(net 8 "Col3")
 			(pinfunction "PA02_A0_D0")
 			(pintype "passive")
-			(uuid "c19e0158-565a-4dfa-90de-54468231384e")
+			(uuid "f69db7f1-da04-49f3-99fd-487718835c17")
 		)
 		(pad "2" smd roundrect
 			(at -8.455 -5.08 180)
@@ -5294,7 +5294,7 @@
 			(net 5 "Col2")
 			(pinfunction "PA4_A1_D1")
 			(pintype "passive")
-			(uuid "c3d316e0-7ce4-40ba-be8d-0522cd773079")
+			(uuid "011fae95-b4d5-4d7f-a8ac-3b913376995f")
 		)
 		(pad "3" smd roundrect
 			(at -8.455 -2.54 180)
@@ -5316,7 +5316,7 @@
 			(net 4 "Col1")
 			(pinfunction "PA10_A2_D2")
 			(pintype "passive")
-			(uuid "8dcd403a-43cc-4b68-a9fd-f0d3e46c915f")
+			(uuid "8e1d7840-8f06-4ee2-ad85-61c3c149b777")
 		)
 		(pad "4" smd roundrect
 			(at -8.455 0 180)
@@ -5338,7 +5338,7 @@
 			(net 2 "Col0")
 			(pinfunction "PA11_A3_D3")
 			(pintype "passive")
-			(uuid "a7ac1891-d0e9-4b4d-bd9b-ab5eb5ad418f")
+			(uuid "7d70b027-1511-4297-875f-77169ee295fd")
 		)
 		(pad "5" smd roundrect
 			(at -8.455 2.54 180)
@@ -5360,7 +5360,7 @@
 			(net 17 "SDA")
 			(pinfunction "PA8_A4_D4_SDA")
 			(pintype "passive")
-			(uuid "7183d0b3-4198-45d3-9fa6-b664c490167e")
+			(uuid "6789b66b-3ae9-4a52-a7fb-374ce4ccabac")
 		)
 		(pad "6" smd roundrect
 			(at -8.455 5.08 180)
@@ -5382,7 +5382,7 @@
 			(net 19 "SCL")
 			(pinfunction "PA9_A5_D5_SCL")
 			(pintype "passive")
-			(uuid "e2722350-c454-4fa5-892d-c62b919e6168")
+			(uuid "e51b0ea1-6f06-434c-a499-f4a85b6e8661")
 		)
 		(pad "7" smd roundrect
 			(at -8.455 7.62 180)
@@ -5404,7 +5404,7 @@
 			(net 26 "Row2")
 			(pinfunction "PB08_A6_D6_TX")
 			(pintype "passive")
-			(uuid "b8d7c646-c640-4d09-9469-1112ef3ac450")
+			(uuid "db2b02c9-9a06-441b-b594-4b5437d59415")
 		)
 		(pad "8" thru_hole circle
 			(at 7.62 7.62)
@@ -5426,7 +5426,7 @@
 			(pinfunction "PB09_A7_D7_RX")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "fc8d8d39-cbbe-4291-84f8-0f4d57979bef")
+			(uuid "a571c1db-c1ac-44c6-97a4-81a3ab74eb03")
 		)
 		(pad "9" thru_hole circle
 			(at 7.62 5.08)
@@ -5448,7 +5448,7 @@
 			(pinfunction "PA7_A8_D8_SCK")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "6dbc46e7-eaa4-4841-aff8-34ab37f16d42")
+			(uuid "45cb38ae-06b3-43f9-81b2-5027c7359487")
 		)
 		(pad "10" thru_hole circle
 			(at 7.62 2.54)
@@ -5470,7 +5470,7 @@
 			(pinfunction "PA5_A9_D9_MISO")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "e7438737-f978-41e2-9ef3-c5e76a007dfc")
+			(uuid "d1128e5d-83e4-41c1-9daf-8eb3d2c6e93d")
 		)
 		(pad "11" thru_hole circle
 			(at 7.62 0)
@@ -5492,7 +5492,7 @@
 			(pinfunction "PA6_A10_D10_MOSI")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c6bd8341-3ccd-4689-9279-869082809843")
+			(uuid "3f5cd9c5-9518-4c61-bb2e-b7bc3fc65a21")
 		)
 		(pad "12" thru_hole circle
 			(at 7.62 -2.54)
@@ -5514,7 +5514,7 @@
 			(pinfunction "3V3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "e5d04c1e-33f6-4460-8a50-3e1f230718a5")
+			(uuid "bbaab4eb-8985-4b15-89da-9abc57cf2a17")
 		)
 		(pad "13" thru_hole circle
 			(at 7.62 -5.08)
@@ -5536,7 +5536,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "e46f3ea6-02ea-41aa-ac46-c853836d8e5e")
+			(uuid "10bfbdee-98d8-4db3-81b4-aad8ee19086c")
 		)
 		(pad "14" thru_hole circle
 			(at 7.62 -7.62)
@@ -5558,22 +5558,10 @@
 			(pinfunction "5V")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a7ba8bc9-d96e-4b9b-82e4-e82e5045f684")
+			(uuid "a6ab6604-0259-40b3-9768-ebc9e2dbcc4e")
 		)
 		(embedded_fonts no)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-nRF52840 v15.step"
-			(hide yes)
-			(offset
-				(xyz -1.778 -6.096 0.381)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
+		(model "C:/Users/Elia Maso/Documents/GitHub/Macropad_Blueprint/Macropad_PCB/SymbolsFootprints/XIAO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5582,42 +5570,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO RP2040 v26.step"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 90)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO-ESP32-C3.step"
-			(hide yes)
-			(offset
-				(xyz -1.7018 -6.096 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-ESP32S3 v2.step"
-			(hide yes)
-			(offset
-				(xyz -1.778 -6.1722 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
 			)
 		)
 	)
@@ -9150,6 +9102,16 @@
 		)
 	)
 	(gr_line
+		(start 106.455 98.95)
+		(end 15.455 98.95)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0b8a1ec1-9b66-4fae-8023-9b6ad144abfd")
+	)
+	(gr_line
 		(start 15.455 13.45)
 		(end 106.455 13.45)
 		(stroke
@@ -9178,16 +9140,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "b0c3bc50-f349-4055-8db7-75cb66e84512")
-	)
-	(gr_line
-		(start 106.455 98.95)
-		(end 15.455 98.95)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "0b8a1ec1-9b66-4fae-8023-9b6ad144abfd")
 	)
 	(segment
 		(start 37.735 43.895)
