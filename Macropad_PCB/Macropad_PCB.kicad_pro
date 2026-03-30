@@ -504,10 +504,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "export/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Macropad_PCB.step",
       "svg": "",
       "vrml": ""
     },
