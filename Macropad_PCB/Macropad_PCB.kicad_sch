@@ -2627,7 +2627,7 @@
 			(uuid "15453147-fc33-4f50-940b-a912935bd42a")
 		)
 		(instances
-			(project ""
+			(project "Macropad_PCB"
 				(path "/1a1a6edd-d890-43f8-a81d-660412c01a38"
 					(reference "#PWR06")
 					(unit 1)
@@ -2899,7 +2899,7 @@
 			(uuid "82dc5013-c03f-4aad-9a90-796474a7ded4")
 		)
 		(instances
-			(project ""
+			(project "Macropad_PCB"
 				(path "/1a1a6edd-d890-43f8-a81d-660412c01a38"
 					(reference "J1")
 					(unit 1)
@@ -3168,7 +3168,7 @@
 			(uuid "2ebc88bc-d5f0-433e-8512-39960f9fe065")
 		)
 		(instances
-			(project ""
+			(project "Macropad_PCB"
 				(path "/1a1a6edd-d890-43f8-a81d-660412c01a38"
 					(reference "D1")
 					(unit 1)
@@ -3953,7 +3953,7 @@
 			(uuid "50dc434d-dd37-4f34-ac51-e03cf466c6af")
 		)
 		(instances
-			(project ""
+			(project "Macropad_PCB"
 				(path "/1a1a6edd-d890-43f8-a81d-660412c01a38"
 					(reference "#PWR02")
 					(unit 1)
@@ -4562,7 +4562,7 @@
 			(uuid "89d05fd8-853e-4563-bb94-5afe0b38eebd")
 		)
 		(instances
-			(project ""
+			(project "Macropad_PCB"
 				(path "/1a1a6edd-d890-43f8-a81d-660412c01a38"
 					(reference "S1")
 					(unit 1)
@@ -4718,7 +4718,7 @@
 			(uuid "593624b9-f3c6-4581-977b-0d8d4d318f48")
 		)
 		(instances
-			(project ""
+			(project "Macropad_PCB"
 				(path "/1a1a6edd-d890-43f8-a81d-660412c01a38"
 					(reference "#PWR01")
 					(unit 1)
@@ -4809,7 +4809,7 @@
 			(uuid "58b173bd-5ae2-495d-9541-e9202710f924")
 		)
 		(instances
-			(project ""
+			(project "Macropad_PCB"
 				(path "/1a1a6edd-d890-43f8-a81d-660412c01a38"
 					(reference "SW0")
 					(unit 1)
@@ -4931,7 +4931,7 @@
 			(uuid "7f614764-d8b0-4c0b-8e2e-679da1e07d7f")
 		)
 		(instances
-			(project ""
+			(project "Macropad_PCB"
 				(path "/1a1a6edd-d890-43f8-a81d-660412c01a38"
 					(reference "U1")
 					(unit 1)
