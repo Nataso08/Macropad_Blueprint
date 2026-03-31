@@ -26,6 +26,9 @@ It's my first PCB & CAD project ever, and I liked do this.
 ### PCB
 <img width="672" height="603" alt="immagine" src="https://github.com/user-attachments/assets/4e98fc73-300d-4cf6-91a8-816ed2cd517f" />
 
+### PCB 3D render
+<img width="984" height="836" alt="immagine" src="https://github.com/user-attachments/assets/85a88356-b2d7-4099-a99e-ad8da6557ae9" />
+
 ### CAD
 #### Full CAD
 <img width="1232" height="794" alt="immagine" src="https://github.com/user-attachments/assets/180a5f11-761b-4ab0-9450-73766abc0bb1" />
