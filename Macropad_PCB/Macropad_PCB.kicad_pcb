@@ -8333,6 +8333,17 @@
 			(uuid "a7ba8bc9-d96e-4b9b-82e4-e82e5045f684")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/Elia Maso/Documents/GitHub/Macropad_Blueprint/Macropad_PCB/SymbolsFootprints/XIAO.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "B.Cu")
