@@ -32,7 +32,7 @@ It's my first PCB & CAD project ever, and I liked do this.
 ### CAD
 [The OnShape project](https://cad.onshape.com/documents/a87e2dd97fe0598f146e6970/w/66d04f377217749244a38da7/e/cb98773740db47e258a91458)
 #### Full CAD
-<img width="1232" height="794" alt="immagine" src="https://github.com/user-attachments/assets/180a5f11-761b-4ab0-9450-73766abc0bb1" />
+<img width="1151" height="810" alt="immagine" src="https://github.com/user-attachments/assets/fbe62781-331d-499a-97a4-b7a504828a10" />
 
 #### Only bottom
 <img width="1221" height="666" alt="immagine" src="https://github.com/user-attachments/assets/a652504e-4fbc-427f-9a6d-93f03b646309" />
